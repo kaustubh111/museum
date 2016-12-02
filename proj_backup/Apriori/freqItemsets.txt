@@ -1,0 +1,2 @@
+{flute,tabla} = 10
+{harmonium,violin,flute,guitar} = 11
